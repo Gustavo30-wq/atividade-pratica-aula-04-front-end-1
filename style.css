@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+}
+#Titulo {
+    color: #2b0074;
+}
+#Titulo {
+    text-align: center;
+}
+h2 {
+    color: #00743a;
+}
+.destaque {
+    font-weight: 18px;
+    color: #000000;
+}
+main {
+    padding: 20px;
+    margin: 20px;
+}
+section {
+    margin: 20px 0;
+}
+img {
+    margin-right: 20px;
+}
+table {
+    width: 100%;
+         border-collapse: collapse;
+            border: 1px solid black;
+             padding: 10px;
+}
+nav {
+    background-color: darkblue;
+    padding: 15px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+}
+footer {
+    background-color: lightgray;
+    padding: 15px;
+    text-align: center;
+}
